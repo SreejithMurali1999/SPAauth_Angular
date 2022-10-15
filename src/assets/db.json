@@ -1,0 +1,11 @@
+{
+"employee": [
+    {
+        "id":100,
+        "name":"sreejith",
+        "email":"nivinoble1000@gmail.com",
+        "salary": 26000,
+        "DOJ":"27-04-1999"
+    }
+]
+}

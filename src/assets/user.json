@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "sree",
+      "email": "sree@123",
+      "password": "asd",
+      "id": 1
+    },
+    {
+      "name": "sree",
+      "email": "sree@123",
+      "password": "asd",
+      "id": 2
+    }
+  ],
+  "employee": [
+    {
+      "id": 100,
+      "name": "sreejith",
+      "email": "nivinoble1000@gmail.com",
+      "salary": 26000,
+      "DOJ": "27-04-1999"
+    }
+  ]
+}
