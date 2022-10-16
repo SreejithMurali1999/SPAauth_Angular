@@ -11,6 +11,18 @@
       "email": "sree@123",
       "password": "asd",
       "id": 2
+    },
+    {
+      "name": "njan",
+      "email": "sreejith@123",
+      "password": "aqw",
+      "id": 3
+    },
+    {
+      "name": "njan",
+      "email": "sreejith@123",
+      "password": "aqw",
+      "id": 4
     }
   ],
   "employee": [
