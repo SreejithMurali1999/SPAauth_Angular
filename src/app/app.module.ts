@@ -12,7 +12,8 @@ import {FormsModule, ReactiveFormsModule} from '@angular/forms'
 const appRoute:Routes = [
   {path:'',component:SignInComponent},
   {path:'Create',component:RegisterComponent},
-  {path:'sign-in',component:SignInComponent}
+  {path:'sign-in',component:SignInComponent},
+  {path:'signin',component:SignInComponent}
   
   
 ]
